@@ -56,5 +56,5 @@ elif mask == cidr[22]:
     print("Your subnet mask is: ", subnet[22])
 elif mask == cidr[23]:
     print("Your subnet mask is: ", subnet[23])
-elif mask == cidr[24]:
-    print("Your subnet mask is: ", subnet[24])
+    
+    
